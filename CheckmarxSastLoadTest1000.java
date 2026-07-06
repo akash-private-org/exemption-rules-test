@@ -5,7 +5,7 @@
  * - SAST tools usually report CWEs/query findings, not CVEs. CVEs are typically tied to vulnerable dependencies/SCA.
  * - This file creates 1000 synthetic source-code vulnerability patterns for scanner stress testing.
  */
-//pr4
+//pr5
 import java.io.*;
 import java.sql.*;
 import java.util.*;
