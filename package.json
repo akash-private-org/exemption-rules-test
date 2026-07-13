@@ -1,0 +1,9 @@
+{
+  //pr25
+  "name": "sca-test-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "minimist": "0.0.8",
+    "serialize-javascript": "2.1.1"
+  }
+}
